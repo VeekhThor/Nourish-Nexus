@@ -1,4 +1,4 @@
-# Nourish Nexus Marketing Dataset
+# Nourish Nexus Data Analysis Project
 
 
 In this project, I am stepping into the role of a Data Analyst working for a market research firm called Nourish Nexus. Nourish Nexus collaborates with a retail vendor specializing in food and beverage products.
